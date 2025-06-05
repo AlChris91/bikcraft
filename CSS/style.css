@@ -1,5 +1,6 @@
 @import "./GLOBAL/global.css";
 @import "./GLOBAL/header.css";
+@import "./GLOBAL/footer.css";
 
 @import "./HOME/introducao.css";
 @import "./HOME/tecnology.css";
