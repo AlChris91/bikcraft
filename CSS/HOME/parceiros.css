@@ -44,6 +44,10 @@
   .partner ul {
     grid-template-columns: repeat(2, 1fr);
   }
+  .partner li {
+    display: flex;
+    padding: 20px;
+  }
   .partner li:nth-child(n + 5) {
     border-top: 2px solid var(--cor-2);
   }
