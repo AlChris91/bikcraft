@@ -11,6 +11,8 @@
 @import "./UTILIDADES/tipografia.css";
 @import "./UTILIDADES/cores.css";
 
+@import "./TERMOS/termos.css";
+
 @import "./BICICLETAS/bicicletas-lista.css";
 
 @import "./SEGUROS/seguros.css";
