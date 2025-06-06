@@ -19,3 +19,6 @@
 @import "./SEGUROS/seguros.css";
 @import "./SEGUROS/vantagens.css";
 @import "./SEGUROS/perguntas.css";
+
+@import "./BICICLETA/nimbus.css";
+@import "./BICICLETA/seguro.css";

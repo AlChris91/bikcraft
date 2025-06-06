@@ -14,13 +14,16 @@
   margin: 0 auto;
   overflow-x: scroll;
 }
+#bicicleta .bicicleta-lista ul {
+  pad: 0px 0px 20px 0px;
+}
 .bicicleta-lista li {
   flex: 1;
   min-width: 280px;
 }
 
 .bicicleta-lista a {
-  display: inline-block;
+  display: block;
 }
 
 .bicicleta-lista img {
