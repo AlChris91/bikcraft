@@ -7,9 +7,13 @@
 @import "./HOME/parceiros.css";
 @import "./HOME/depoimento.css";
 
+@import "./CONTATO/contato.css";
+@import "./CONTATO/lojas.css";
+
 @import "./UTILIDADES/componentes.css";
 @import "./UTILIDADES/tipografia.css";
 @import "./UTILIDADES/cores.css";
+@import "./UTILIDADES/formulario.css";
 
 @import "./TERMOS/termos.css";
 
