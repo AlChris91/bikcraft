@@ -30,7 +30,8 @@
   border-radius: 5px 0 0 5px;
   display: grid;
   gap: 20px;
-  background: var(--cor-12);
+  background: var(--cor-12) url(../../img/dec/bottom-left.svg) no-repeat bottom
+    20px left 20px;
   grid-template-columns: 1fr 1f;
   align-content: start;
 }
@@ -93,7 +94,8 @@
   border-radius: 0 5px 5px 0;
   display: grid;
   gap: 2px;
-  background: var(--cor-0);
+  background: var(--cor-0) url(../../img/dec/bottom-right.svg) no-repeat bottom
+    20px right 20px;
 }
 .orcamento-conteudo {
   display: none;
@@ -131,6 +133,9 @@
   .orcamento-produto,
   .orcamento-detalhes {
     grid-template-columns: 1fr;
+  }
+  .orcamento-produto {
+    background: var(--cor-12);
   }
   .orcamento-dados {
     border-radius: 0 0 5px 5px;
